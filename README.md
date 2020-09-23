@@ -1,19 +1,18 @@
 # dragon-fish.github.io
 
-欢迎光临，这里是**机智的小鱼君**的 _GitHub Pages_ 前端源代码。网站的构筑代码部分为非开源，您在这里无法找到它们。如果您想了解如何像我一样部署类似的网站，欢迎与我交流讨论~
+欢迎光临，这里是**机智的小鱼君**的博客。构筑网站的源代码并不开源，您在这里无法找到它们。如果您想了解如何像我一样部署类似的网站，欢迎与我交流讨论~
 
-This is Dragon Fish's GitHub Pages' front-end source code. The building code of the website is not open source. You can't find them here. If you want to know how to deploy a similar website like me, feel free to discuss with me~
+This is Dragon Fish's Blog. The building code of the website is not open source. You can't find them here. If you want to know how to deploy a similar website like me, feel free to discuss with me~
 
 ## 访问 Visit
 
-- [![GitHub Actions Status](<https://github.com/Dragon-Fish/ghpages/workflows/Hexo自动部署/badge.svg>)](https://github.com/Dragon-Fish/ghpages/actions) GitHub Pages: https://dragon-fish.github.io/
-- [![Netlify Status](<https://api.netlify.com/api/v1/badges/6a0d581c-16d1-4368-98a6-be93d5abd6ca/deploy-status.svg>)](https://app.netlify.com/sites/dragon-fish/deploys) Netlify: https://dragon-fish.netlify.app/
+<https://dragon-fish.now.sh>
 
 ## 自动部署 Auto Deploy
 
-采用 `GitHub Actions + GitHub Pages` 以及 `Netlify` 来自动部署网站。
+采用 `GitHub Actions + GitHub Pages` 以及 `Vercel` 来自动部署网站。
 
-Uses `GitHub Actions + GitHub Pages` and `Netlify` to automatically deploy the website.
+Uses `GitHub Actions + GitHub Pages` and `Vercel` to automatically deploy the website.
 
 ### 构筑文件 Building code
 
@@ -34,4 +33,4 @@ https://github.com/Dragon-Fish/ghpages/
 
 - [GitHub Pages](https://pages.github.com/)
   - [GitHub Actions](https://help.github.com/en/actions/getting-started-with-github-actions/about-github-actions)
-- [Netlify](https://www.netlify.com/)
+- [Vercel](https://www.vercel.com/)
