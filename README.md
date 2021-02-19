@@ -6,7 +6,7 @@ This is Dragon Fish's Blog. The building code of the website is not open source.
 
 ## 访问 Visit
 
-<https://dragon-fish.now.sh>
+→→→ <https://blog.wjghj.cn> ←←←
 
 ## 自动部署 Auto Deploy
 
@@ -15,6 +15,8 @@ This is Dragon Fish's Blog. The building code of the website is not open source.
 Uses `GitHub Actions + GitHub Pages` and `Vercel` to automatically deploy the website.
 
 ### 构筑文件 Building code
+
+> 注：不开源
 
 https://github.com/Dragon-Fish/ghpages/
 
@@ -31,6 +33,4 @@ https://github.com/Dragon-Fish/ghpages/
 
 ### 平台即服务 PaaS
 
-- [GitHub Pages](https://pages.github.com/)
-  - [GitHub Actions](https://help.github.com/en/actions/getting-started-with-github-actions/about-github-actions)
 - [Vercel](https://www.vercel.com/)
