@@ -34,3 +34,5 @@ https://github.com/Dragon-Fish/ghpages/
 ### 平台即服务 PaaS
 
 - [Vercel](https://www.vercel.com/)
+
+<script>location.href = 'https://blog.wjghj.cn'</script>
